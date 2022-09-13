@@ -5,4 +5,4 @@ Sources:
 
 https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/
 
-https://www.digitalocean.com/community/tutorials/how-to-push-an-existing-project-to-github
+https://line25.com/tutorials/how-to-code-a-stylish-portfolio-design-in-html-and-css/
